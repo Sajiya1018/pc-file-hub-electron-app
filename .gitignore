@@ -1,0 +1,12 @@
+# Node modules (අනවශ්‍ය ලොකු folders)
+node_modules/
+file-server/node_modules/
+client-ui/node_modules/
+
+# Build output (මේවා auto හැදෙන ඒවා)
+client-ui/dist/
+dist/
+
+# System files
+.DS_Store
+file-server/uploads/
