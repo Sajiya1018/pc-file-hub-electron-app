@@ -4,7 +4,7 @@ A custom desktop application built with Electron, React, and Node.js to transfer
 
 This project was built as a portfolio item to demonstrate full-stack development skills, including backend API creation, frontend UI/UX, and desktop packaging.
 
-![My PC File Hub App Screenshot](httpsServices)
+![My PC File Hub App Screenshot](<img width="821" height="745" alt="Image" src="https://github.com/user-attachments/assets/0e5aa3bb-7ceb-49f6-a972-666048994edc" />)
 *(This is a placeholder: I will help you add a real screenshot here later!)*
 
 ---
